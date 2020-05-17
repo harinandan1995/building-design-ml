@@ -1,0 +1,89 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: Broschuere_Layout_neu.indd
+
+PACKDATUM: 25.01.2018 11:17
+Erstellungsdatum 25.01.2018
+Änderungsdatum: 25.01.2018
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte: Auf Seite1, 5
+
+SCHRIFTARTEN
+3 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: Arial-BoldMT; Typ: OpenType TrueType, Status: OK
+- Name: TUMNeueHelvetica-Bold; Typ: OpenType TrueType, Status: OK
+- Name: TUMNeueHelvetica-Regular; Typ: OpenType TrueType, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 71,565; Linien/Zoll: 63,245
+- Name und Typ: Prozessfarbe Magenta; Winkel: 18,434; Linien/Zoll: 63,245
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 66,666
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,710
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 4 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 4 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: Adobe PDF 9.0, (Adobe PDF)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-CMYK
+Überfüllungsmodus:  Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 190 mm x 190 mm
+Papierabmessungen: 209,98 mm x 297,039 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. Broschuere_Layout_neu.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1444K
+2. Broschuere_Layout_neu.idml; Typ: InDesign Markup-Dokument; Größe: 107K
+3. Broschuere_Layout_neu.pdf; Typ: Adobe Acrobat-Dokument; Größe: 262K
+4. arialbd.ttf; Typ: Schriftartendatei; Größe: 948K
+5. TUMNeueHelvetica-Bold.ttf; Typ: Schriftartendatei; Größe: 127K
+6. TUMNeueHelvetica-Regular.ttf; Typ: Schriftartendatei; Größe: 155K

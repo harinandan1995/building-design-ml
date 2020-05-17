@@ -1,0 +1,21 @@
+Features:
+
+Space - wall volume ratio: Measures the amount of spatial segregation
+Space - slab volume ratio: Measures the amount of spatial segregation in vertical direction
+
+Doors per space: Measures the connectivity of spaces
+
+Average space volume: Measures the size of the spaces
+Space volume variance: Measures the extent to which spaces vary in size
+
+Average space gyradius: Measures the compactness of the spaces
+Space gyradius variance: Measures the extent to which the compactness of the spaces varies
+
+Column wall ratio: Measures whether walls or columns are used for load bearing
+
+Footprint: 
+Program: Types of rooms it contains, number of rooms
+Orientation: 
+Thickness and Texture:
+Connectivity:
+Circulation:

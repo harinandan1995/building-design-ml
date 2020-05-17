@@ -1,0 +1,76 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\OneDrive\TUM\SoSe 19\Algorithmic Design\Project\Layoutvorlage\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:971376
+FileModTime:1506688888
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TUMNeueHelvetica-Bold
+FamilyName:TUM Neue Helvetica
+StyleName:75 Bold
+FullName:TUM Neue Helvetica 75 Bold
+MenuName:TUM Neue Helvetica 55 Regular
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\OneDrive\TUM\SoSe 19\Algorithmic Design\Project\Layoutvorlage\Document fonts\TUMNeueHelvetica-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:130732
+FileModTime:1510923506
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TUM Neue Helvetica 75 Bold
+NameArray:0,Mac,4,TUM Neue Helvetica 75 Bold
+NameArray:0,Win,1,TUM Neue Helvetica 55 Regular
+NameArray:0,Win,16,TUM Neue Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TUMNeueHelvetica-Regular
+FamilyName:TUM Neue Helvetica
+StyleName:55 Regular
+FullName:TUM Neue Helvetica 55 Regular
+MenuName:TUM Neue Helvetica 55 Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\OneDrive\TUM\SoSe 19\Algorithmic Design\Project\Layoutvorlage\Document fonts\TUMNeueHelvetica-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:158980
+FileModTime:1510923506
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TUM Neue Helvetica 55 Regular
+NameArray:0,Mac,4,TUM Neue Helvetica 55 Regular
+NameArray:0,Win,1,TUM Neue Helvetica 55 Regular
+NameArray:0,Win,16,TUM Neue Helvetica
+%EndFont
+
